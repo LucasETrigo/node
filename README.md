@@ -35,6 +35,14 @@ We recommend you have this hardware configuration to run a node:
 - at least 16 GB RAM (32 GB recommended)
 - a high performance SSD drive (NVME recommended) with at least 750GB (full node) or 4.5TB (archive node) free
 
+### Prerequisites
+
+Ensure you have the following software installed:
+
+- Docker (version 20.10.7 or higher)
+- Docker Compose (version 1.29.2 or higher)
+- jq (for checking syncing status)
+
 ### Troubleshooting
 
 If you encounter problems with your node, please open a [GitHub issue](https://github.com/base-org/node/issues/new/choose) or reach out on our [Discord](https://discord.gg/buildonbase):
